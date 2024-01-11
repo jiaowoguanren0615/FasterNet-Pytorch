@@ -4,6 +4,11 @@
 This is a warehouse for FasterNet-Pytorch-model, can be used to train your image-datasets for classification tasks.
 The code mainly comes from official [source code](https://github.com/JierunChen/FasterNet/)
 
+
+## Preparation
+### Download the dataset: 
+[flower_dataset](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition).
+
 ## Project Structure
 ```
 ├── datasets: Load datasets
