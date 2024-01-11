@@ -10,8 +10,8 @@ The code mainly comes from official [source code](https://github.com/JierunChen/
     ├── my_dataset.py: Customize reading data sets and define transforms data enhancement methods
     ├── split_data.py: Define the function to read the image dataset and divide the training-set and test-set
     ├── threeaugment.py: Additional data augmentation methods
-├── models: UniRepLKNet Model
-    ├── fasternet.py: Construct "UniRepLKNet" model
+├── models: FasterNet Model
+    ├── fasternet.py: Construct "FasterNet" model
 ├── util:
     ├── engine.py: Function code for a training/validation process
     ├── losses.py: Knowledge distillation loss, combined with teacher model (if any)
